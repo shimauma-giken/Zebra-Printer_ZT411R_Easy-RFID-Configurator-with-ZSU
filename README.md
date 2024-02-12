@@ -222,7 +222,7 @@ ZT421や詳細については下記リンクを参考にすること。
 ## 6. 基本設定（印刷）
 <hr>
 
-<img src="./picture-ZT411R-config/ZSU-Send-File-01.png" width="30%">
+<img src="./picture-ZT411R-config/ZSU-Send-File-01.png" width="50%">
 
 
 1. プリンタとPCをUSBケーブルで接続。
@@ -246,7 +246,7 @@ ZT421や詳細については下記リンクを参考にすること。
 ## 7. 基本設定（RFID）
 <hr>
 
-<img src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt411-421/g-rfid-calibrate.png/jcr:content/renditions/original" width="15%">
+<img src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt411-421/g-rfid-calibrate.png/jcr:content/renditions/original" width="50%">
 
 1. 用紙キャリブレーションが完了していることを確認。
 2. プリンタ液晶 > [RFID] > [RFID Calibrate] を選択。
@@ -341,7 +341,7 @@ ZT421や詳細については下記リンクを参考にすること。
 </br>
 
 ## 8. 印刷品質の調整
-<img src="./picture-ZT411R-config/ZSU-Wizard-Print-Quality-01.png" width="20%">
+<img src="./picture-ZT411R-config/ZSU-Wizard-Print-Quality-01.png" width="50%">
 
 
 印刷対象のラベルに応じて、適切な設定をする。
