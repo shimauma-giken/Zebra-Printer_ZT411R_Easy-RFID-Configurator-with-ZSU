@@ -1,18 +1,5 @@
+# RFIDプリンタの調整・設定ガイド
 
-<!-- _class: main-title -->
-### Zebra ZT411R 設定ガイド
-### 
-
-</br>
-</br>
-</br>
-
-<!-- _class: author -->
-Zebra Technologies Japan
-Senior Sales Engineer
-Yu Sasaki / 佐々木有
-Feb 2024
-[www.zebra.com](https://www.zebra.com)
 
 
 
@@ -27,7 +14,6 @@ _color: white
 ![bg brightness:0.3](https://www.devprojournal.com/wp-content/uploads/2017/09/Zebra-Logo.jpg)
 
 
-# RFIDプリンタの調整・設定ガイド
 
 
 ## 0. 目次
