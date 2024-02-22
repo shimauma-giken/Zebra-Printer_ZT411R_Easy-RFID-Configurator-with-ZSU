@@ -59,10 +59,11 @@ _color: white
 
 1. 設定用ファイルをダウンロードする。
    [<>Code] > [Local] > [Download ZIP]
+   
    https://github.com/shimauma-giken/Zebra-Printer-ZT-Series-Easy-Pinter-Configurator-with-USB
    <br>
 
-2. ZIPを解凍する。
+3. ZIPを解凍する。
 
 ----
 ## ファイル構成
