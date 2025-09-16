@@ -40,6 +40,7 @@ _color: white
 
 1. Zebra RFID プリンタ*
    - SKUの確認をすること!!
+   - ★ Silverlineラベル利用時はZT411R 1000mwモデルを使用すること。
 2. ラベル - ID:3"
 3. リボン - ID:1"
 4. USB ケーブル - PC 接続用
